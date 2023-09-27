@@ -62,10 +62,7 @@
 <div align="center">
 	<h3 align="center">📊  My stats</h3>
 </div>
-
-
-
-  
+<br>  
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wandersonFeitosa&theme=dark&hide_border=true"  />
 </div>
