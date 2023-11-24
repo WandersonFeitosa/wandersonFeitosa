@@ -15,7 +15,7 @@
 ###
 
 
-🔭 I’m currently working on Anjun Express<br>🤝 Still looking for new opportunities<br>👨‍💻 Fullstack Developer <br>💻 My main language is Typescript/Javascript <br>🏠 São Paulo - SP - Brazil
+🔭 I’m currently working on Nuage IT<br>👨‍💻 Fullstack Developer <br>💻 My main language is Typescript/Javascript <br>🏠 São Paulo - SP - Brazil
 
 ###
 
